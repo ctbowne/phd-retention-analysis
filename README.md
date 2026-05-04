@@ -10,7 +10,7 @@ decline in retention and distinguishing real change from normal year-to-year var
 ## Overview
 
 This study examined year-to-year retention rates for PhD students in the School
-of Educational Studies (SES) from Fall 2019 through Fall 2023. Retention was
+of XXXXXXXXXXXXXXXXX from Fall 2019 through Fall 2023. Retention was
 defined as a student remaining enrolled or having graduated (with an MA or PhD)
 in the following Fall term.
 
