@@ -57,7 +57,7 @@ across multiple comparisons.
 | `SES_PHD_Retention_Analysis.ipynb` | Jupyter notebook with Chi-square test and Bonferroni-corrected pairwise Z-tests |
 
 **Note:** The underlying dataset contains student-level enrollment records
-and is not included in this repository.
+and is not included in this repository. Furthermore, the data has been synthetically altered so original aggregate values are masked.
 
 ---
 
