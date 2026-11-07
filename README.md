@@ -1,5 +1,5 @@
 # PhD Retention Analysis
-**Ad hoc statistical study conducted for school deans, Claremont Graduate University**
+**Ad hoc statistical study conducted for school deans**
 
 Chi-square test of independence with Bonferroni-corrected pairwise Z-tests on
 five years of doctoral enrollment data, identifying a statistically significant
